@@ -1,0 +1,9 @@
+C:\VS_CSharp_Test\Project\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp1.1\ConsoleApp1.deps.json
+C:\VS_CSharp_Test\Project\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp1.1\ConsoleApp1.runtimeconfig.json
+C:\VS_CSharp_Test\Project\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp1.1\ConsoleApp1.runtimeconfig.dev.json
+C:\VS_CSharp_Test\Project\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp1.1\ConsoleApp1.dll
+C:\VS_CSharp_Test\Project\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp1.1\ConsoleApp1.pdb
+C:\VS_CSharp_Test\Project\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp1.1\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\VS_CSharp_Test\Project\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp1.1\ConsoleApp1.AssemblyInfo.cs
+C:\VS_CSharp_Test\Project\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp1.1\ConsoleApp1.dll
+C:\VS_CSharp_Test\Project\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp1.1\ConsoleApp1.pdb
